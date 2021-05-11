@@ -11,7 +11,6 @@ const tutorials = [
   'what is JSONP?'
 ];
 
-//str = str.toLowerCase().split(' ');
 
 function titleCase(str) {
   str = str.split(' ');
